@@ -1,4 +1,4 @@
-![Profile Banner](banner.png)
+![Profile Banner](banner-01.png)
 
 ## Hi 👋 I'm Kiran Kumar B
 
