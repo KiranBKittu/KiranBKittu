@@ -1,3 +1,9 @@
-![Profile Banner](banner-01.png)
-#<p align="center"><img src="banner-01.png" alt="Profile Banner"></p>
+![Profile Banner](banner.png)
 
+## Hi 👋 I'm Kiran Kumar B
+
+DevOps | WebLogic | Kubernetes | Cloud | Linux
+
+## 📬 Contact Me
+- 📧 Email: yourmail@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/your-linkedin
