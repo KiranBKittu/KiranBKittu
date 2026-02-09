@@ -1,9 +1,4 @@
-![Profile Banner](banner-01.png)
+<p align="center">
+  <img src="https://github.com/KiranBKittu/KiranBKittu/blob/main/banner-01.png?raw=true" width="100%" />
+</p>
 
-## Hi 👋 I'm Kiran Kumar B
-
-DevOps | WebLogic | Kubernetes | Cloud | Linux
-
-## 📬 Contact Me
-- 📧 Email: kiran.bandi786@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/your-linkedin
