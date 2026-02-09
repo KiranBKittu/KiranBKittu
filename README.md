@@ -5,5 +5,5 @@
 DevOps | WebLogic | Kubernetes | Cloud | Linux
 
 ## 📬 Contact Me
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: kiran.bandi786@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/your-linkedin
