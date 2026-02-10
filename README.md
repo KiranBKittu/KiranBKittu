@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KiranBKittu/KiranBKittu/blob/main/banner-01.png"/>
+  <img src="https://github.com/KiranBKittu/KiranBKittu/blob/main/git-banner-org.png"/>
 </p>
 
 # 💻 Tech Stack:
@@ -13,5 +13,6 @@
 [![](https://visitcount.itsvg.in/api?id=KiranBKittu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
